@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0px;
+  background-color: #004E00;
+}
+
+
+.titulo {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.afk {
+  color: white;
+}
+
+.cartas {
+  position: relative;
+  width: 150px;
+  left: 100px;
+  margin-left: -75px;
+}
+
+#computadora-cartas,
+#jugador-cartas {
+  height: 240px;
+}
